@@ -1,0 +1,2 @@
+include ':service_compiler'
+rootProject.name = "Humble Compiler Router"
